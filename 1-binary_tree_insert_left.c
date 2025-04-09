@@ -6,7 +6,7 @@
  *  d'un autre noeud
  * @parent: pointeur vers le noeud parent dans lequel ins√©rer l noeud gauche
  * @value: valeur a stocker dans le nouveau noeud
- * Description: Si le parent a d√j©a un enfant gauch
+ * Description: Si le parent a deja un enfant gauch
  * le nouveau noeud le remplace
  * et l'ancien enfant devient l'enfant gauche du nouveau noeud
  * Return: pointeur vers le nouveau noeud ou NULL en cas d'√©che
